@@ -24,3 +24,19 @@ var CategoriesList = [
   CategoryModel(name: "Dairy",imgUrl: igDairy),
   CategoryModel(name: "Bevarages",imgUrl: igBeverage),
 ];
+
+const productSizeList = [
+  "100 g",
+  "250 g",
+  "500 g",
+  "1 kg",
+  "1.5 kg",
+  "2 kg",
+  "3 kg",
+  "5 kg",
+  "10 kg",
+  "15 kg",
+  "20 kg",
+  "25 kg",
+  "30 kg"
+];
